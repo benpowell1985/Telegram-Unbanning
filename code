@@ -1,0 +1,673 @@
+<! DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile# fb: http://ogp.me/ns/fb#">
+ 
+<head itemscope itemtype="https://schema.org/WPHeader">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Monitoring of sites, applications and services | Downdetector" />
+    <meta property="og:locale" content="en" />
+    <meta property="og:image" content="https://downdetector.su/img/ddlogo.png" />
+    <title itemprop="headline">Why isn't TELEGRAM working today? TELEGRAM doesn't receive the code? </title>
+ 
+ 
+    <meta itemprop="description" name="description" content="Do you have a Telegram failure? Why doesn't Telegram upload videos? Is the code not coming to Telegram? Don't you receive messages? The video is not sent to Telegram? Telegram doesn't show media? Telegram didn't send a photo? The TG app doesn't open? Permanent connection?" />
+    <meta property="og:url" content="https://downdetector.su/telegram" />
+    <meta property="og:site_name" content="Check the status of Telegram services| Downdetectorsu" />
+    <meta property="og:title" content="Why is TELEGRAM not working today? TELEGRAM doesn't come the code?" />
+    <meta property="og:description" content="Do you have a Telegram failure? Why doesn't Telegram upload videos? Is the code not coming to Telegram? Don't you receive messages? The video is not sent to Telegram? Telegram doesn't show media? Telegram didn't send a photo? The TG app doesn't open? Permanent connection?" />
+    <meta name="twitter:title" content="Why doesn't TELEGRAM work today? TELEGRAM doesn't come the code?" />
+    <meta name="twitter:description" content="Do you have a Telegram failure? Why doesn't Telegram upload videos? Is the code not coming to Telegram? Don't you receive messages? The video is not sent to Telegram? Telegram doesn't show media? Telegram didn't send a photo? The TG app doesn't open? Permanent connection?" />
+    <meta name="twitter:url" content="https://downdetector.su/telegram" />
+ 
+    <link rel="icon" href="/favicon.ico" />
+    <link rel="shortcut icon" type="image/png" href="/img/favicon-32x32.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="stylesheet" href="/css/reset-1.css" />
+ 
+    <link rel="canonical" href="https://downdetector.su/telegram" />
+ 
+ 
+ 
+    <link rel="alternate" href="https://downdetector.su/telegram" hreflang="x-default" />
+ 
+    <link rel="alternate" href="https://downdetector.by/telegram" hreflang="ru-by" />
+ 
+    <link rel="alternate" href="https://down-detector.kz/telegram" hreflang="ru-kz" />
+ 
+    <link rel="alternate" href="https://down-detector.uz/telegram" hreflang="en-uz" />
+ 
+ 
+ 
+ 
+ 
+    <link rel="stylesheet" href="/css/landing-1.css" />
+ 
+ 
+ 
+ 
+ 
+    <script src="/js/landing-1.js"></script>
+ 
+    <script src="/js/chart.umd.min.js"></script>
+    <script>
+        lastdown = 1742463874;
+        const downcities = 0;
+        const siteorigin = "";
+        let errors = [];
+        let tgdown = [];
+        let problems = [];
+        let extra = [];
+        const isprovider = "";
+    </script>
+    <script id="datasource" src="/data.js? service=Telegram&summ=15"></script>
+    <script src="/js/service-1.js"></script>
+ 
+</head>
+ 
+<body>
+    <!-- /Yandex.Metrica counter -->
+    <noscript>
+        <div style="position: absolute; left: -9999px"><img src="https://mc.yandex.ru/watch/93531947" alt="Я.Metrica" /></div>
+    </script>
+ 
+    <!--noindex-->
+    <div class="header">
+        <a id="logo" href="/">
+            <img src="/img/logo2.svg" alt="Downdetector" />
+            <span><em>D</em>OWN<em>D</em>ETECTO<em>R</em></span>
+            <span>fair detector</span>
+        </a>
+ 
+        <a href="/analitics" rel="nofollow">Analytics</a>
+ 
+ 
+        <a href="/doc" rel="nofollow">Documentation</a>
+        <a href="/blog">News</a>
+        <a href="/contactform" rel="nofollow">Contacts</a>
+ 
+        <div class="searchbar">
+            <input type="text" name="search" placeholder="Specify the address/name of the site" />
+            <div></div>
+        </div>
+ 
+ 
+        <div id="selector">
+            <img src="/img/flag_uz.svg" alt="Uzbekistan flag" data-flag="uz" data-domain="down-detector.uz" data-page="/telegram">
+            <img src="/img/flag_by.svg" alt="Belarus flag" data-flag="by" data-domain="downdetector.by" data-page="/telegram">
+            <img src="/img/flag_kz.svg" alt="Kazakhstan flag" data-flag="kz" data-domain="down-detector.kz" data-page="/telegram">
+            <img src="/img/flag_en.svg" alt="Russian flag" data-flag="en" class="selected">
+        </div>
+        <div id="hamburger">
+            <img src="/img/burger.svg" alt="Menu" />
+            <span>×</span>
+        </div>
+        <div id="usermenu">
+ 
+            <button>Log in</button>
+ 
+ 
+        </div>
+        <div id="hamburgermenu">
+            <div class="form">
+                <div class="searchbar">
+                    <input type="text" name="search" placeholder="Specify the address/name of the site" />
+                    <div></div>
+                </div>
+            </div>
+ 
+            <a href="/analitics" rel="nofollow">Analytics</a>
+ 
+ 
+            <a href="/doc" rel="nofollow">Documentation</a>
+            <a href="/blog">News</a>
+            <a href="/contactform" rel="nofollow">Contacts</a>
+ 
+            <span data-action="login">Log in</span>
+ 
+        </div>
+    </div>
+    <!--/noindex-->
+ 
+    <section class="breadcrumbs">
+        <a href="/">Home</a>
+ 
+        <span></span>
+ 
+        <a href="/branches/chats">Communication</a>
+ 
+ 
+        <span></span>
+ 
+        <a>Telegram</a>
+ 
+ 
+    </section>
+ 
+ 
+    <section class="service_new">
+        <img src="/icons/telegram.svg" alt="Telegram not working?" crossorigin="anonymous" />
+        <div>
+            <h1>Telegram is not working today? </h1>
+            <h2>Report a Telegram failure! </h2>
+        </div>
+        <div class="service">
+            <img src="/icons/telegram.svg" alt="Telegram not working?" crossorigin="anonymous" />
+            <div class="problems">
+ 
+ 
+ 
+                <svg width="25" height="25" viewBox="0 0 25 25" xmlns="http://www.w3.org/2000/svg" class="good">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4999 0C5.60759 0 0 5.60615 0 12.5C0 19.3924 5.60759 24.9993 12.4999 22.4999 24.9993C19.3923 24.9993 25 19.3924 25 12.5C25 12.5C25 19.60615 19.3923 0 12.4999 0 12.4999 0ZM19.4687 8.33127L11.764 16.9851C11.587 17.1975 11.317.3071 11.0571 17.3071C10.8461 17.3071 10.6341 17.2378 10.4567 17.506 17.506464648 13.2506C5.2345 12.1293 5.16728 12.138 5.499 11.8
+                </svg>
+ 
+                <span>Service is available</span>
+ 
+ 
+ 
+ 
+                <svg width="25" height="25" viewBox="0 0 25 25" xmlns="http://www.w3.org/2000/svg" class="good">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4999 0C5.60759 0 0 5.60615 0 12.5C0 19.3924 5.60759 24.9993 12.4999 22.4999 24.9993C19.3923 24.9993 25 19.3924 25 12.5C25 12.5C25 19.60615 19.3923 0 12.4999 0 12.4999 0ZM19.4687 8.33127L11.764 16.9851C11.587 17.1975 11.317.3071 11.0571 17.3071C10.8461 17.3071 10.6341 17.2378 10.4567 17.506 17.506464648 13.2506C5.2345 12.1293 5.16728 12.138 5.499 11.8
+                </svg>
+                <span class="social" data-total="45.588121498677886">Complaint - moderate (hour:<em></em> day:<em></em>)</span>
+ 
+ 
+ 
+                <svg width="25" height="25" viewBox="0 0 25" xmlns="http://www.w3.org/2000/svg" class="warn">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M12.4999 0C5.60759 0 0 5.60615 0 12.5C0 19.3924 5.60759 24.9993 12.4999 22.4999 24.9993C19.3923 24.9993 25 19.3924 25 12.5C25 12.5C25 19.60615 19.3923 0 12.4999 0 12.4999 0ZM19.4687 8.33127L11.764 16.9851C11.587 17.1975 11.317.3071 11.0571 17.3071C10.8461 17.3071 10.6341 17.2378 10.4567 17.506 17.506464648 13.2506C5.2345 12.1293 5.16728 12.138 5.499 11.8
+                </svg>
+                <span class="last">Access problems: <span></span></span>
+ 
+ 
+                <img src="/img/qms.svg" alt="Speedtest by QMS">
+ 
+                <span>Your speed to service: <a class="qms" href="https://qms.ru/? okato=4600000000&src=downdetector" target="_blank">measure</a></span>
+ 
+ 
+            </div>
+            <div class="errors">
+                <header>
+ 
+                    <h2>Telegram failure schedule</h2>
+ 
+                    <img src="/img/screenshot.svg" alt="Screenshot of Telegram chart" data-action="screenshot">
+                    <button class="pages">pages</button>
+                    <button class="table disabled">data</button>
+                    <img class="disabled" src="/img/head.svg" alt="Complaints on Telegram" data-action="complaints">
+                    <div class="disabled">15m</div>
+                    <span>
+24 hours
+                        <div class="selector">
+                            <span></span>
+                            <img src="/img/calendar.svg" alt="Date selection">
+                            <span></span>
+                        </div>
+ 
+                    </span>
+                </header>
+                <div>
+                    <canvas></canvas>
+                    <img src="/img/watermark.svg" alt="Telegram doesn't open?" crossorigin="anonymous">
+                </div>
+            </div>
+            <div class="buttons">
+                <div>
+                    <button class="report">Report a problem</button>
+                    <button class="others">User comments</button>
+                </div>
+                <p>Your messages help the service become better! </p>
+            </div>
+        </div>
+ 
+        <h2>Telegram - cloud messenger</h2>
+ 
+        <div class="cloud">
+            <h2>Message tag cloud</h2>
+            <p>Based on messages for the last hour:</p>
+            <div class="bow">
+                <svg xmlns="http://www.w3.org/2000/svg" width="500" height="250" viewBox="0 0 500 250">
+                    <style>
+                        @font-face {
+                            font-family: 'Droid Sans Mono';
+                            font-weight: normal;
+                            font-style: normal;
+                            thetAT/A/AAAAA/AAAA''''/A'''CT/A'' EGG'GG/G'GG'GG/G'G'G/G'GGGG'G'G/GG/G'GGG'C/G/GG'CG'CG'CG/G'CG'CG'CG/G'CG'CG/G'CG/GG'A'CG'CG/GGGGGGG/GGGGGGGGG'A'A'A'A'A'A'A'A'C/G/G/GGGGGGGGG/GGGGG'A'A'A'A'A'C/G/G/GGG
+}
+</style>
+<style>
+text {
+                            font-family: 'Droid Sans Mono';
+                            font-weight: normal;
+                            font-style: normal;
+}
+                    </style>
+                    <text transform="translate(90,129)" font-size="66" style="fill:#5760AE" data-word="krasnoyarsk" data-freq="0.833333333333333" data-class="location">Krasnoyarsk</text>
+                    <text transform="translate(212,204)" font-size="46" style="fill:#833001" data-word="message" data-freq="0.3333333333333333" data-class="service">message</text>
+                    <text transform="translate(182,28)" font-size="46" style="fill:#2D762D" data-word="application" data-freq="0.3333333333333333" data-class="app">application</text>
+                    <text transform="translate(131,80)" font-size="46" style="fill:#A11A1A" data-word="does not work" data-freq="0.3333333333333333" data-class="problem">does not work</text>
+                    <text transform="translate(103,247)" font-size="46" style="fill:#A11A1A" data-word="do not enter" data-freq="0.3333333333333333" data-class="problem">do not enter</text>
+                    <text transform="translate(65,168)" font-size="34" style="fill:#A11A1A" data-word="does not come" data-freq="0.1666666666666666" data-class="problem">does not come</text>
+                    <text transform="translate(37,246) rotate(-90)" font-size="34" style="fill:#A11A1A" data-word="blocked" data-freq="0.1666666666666666" data-class="problem">blocked</text>
+                    <text transform="translate(335,167)" font-size="34" style="fill:#A11A1A" data-word="hangs" data-freq="0.1666666666666666" data-class="problem">hangs</text>
+                </svg>
+            </div>
+        </div>
+        <!--noindex-->
+        <div class="report">
+            <input type="text" name="author" placeholder="Your name (optional)" maxlength="25">
+            <textarea name="report" maxlength="160" placeholder="Your comment (maximum 160 characters)"></textarea>
+ 
+            <button class="send">Send</button>
+ 
+            <label class="attach"><input type="file" accept=".png, .jpg"></label>
+ 
+ 
+ 
+            <div class="subscribe"><span>All failures in our Telegram channel</span><a href="https://t.me/ru_downdetector_su" target="_blank">Subscribe</a></div>
+            <span data-anchor></span>
+            <span data-ellipsis="telegram" data-last="0"></span>
+        </div>
+        <!--/noindex-->
+        <div class="histograms">
+ 
+            <h2>In which regions does Telegram not work now? </h2>
+            <p>Over the past hour, there have been reports of problems in the work of Telegram from
+regions:</p>
+ 
+ 
+            <label><span>Novosibirsk region</span></label><span class="region" data-pos="13%" data-size="36"><span>13%</span></span>
+ 
+            <label><span>Ulyanovsk region</span></label><span class="region" data-pos="9%" data-size="26"><span>9%</span></span>
+ 
+            <label><span>Krasnoyarsk Territory</span></label><span class="region" data-pos="7%" data-size="19"><span>7%</span></span>
+ 
+            <label><span>Trans-Baikal Territory</span></label><span class="region" data-pos="5%" data-size="16"><span>5%</span></span>
+ 
+            <label><span>Kaluga region</span></label><span class="region" data-pos="5%" data-size="14"><span>5%</span></span>
+ 
+ 
+            <p>* for the regions of Russia, the data are rationed for the population</p>
+ 
+ 
+ 
+            <h2>The most common problems of the Telegram service</h2>
+ 
+            <p>Failure statistics based on user messages for the last 24 hours:</p>
+ 
+            <label><span>Mobile application failure</span></label>
+            <span class="cause" data-pos="70%" data-size="84"><span>70%</span>
+            </span>
+ 
+            <label><span>General failure</span></label>
+            <span class="cause" data-pos="9%" data-size="11"><span>9%</span>
+            </span>
+ 
+            <label><span>Alerts</span></label>
+            <span class="cause" data-pos="8%" data-size="9"><span>8%</span>
+            </span>
+ 
+            <label><span>Site failure</span></label>
+            <span class="cause" data-pos="7%" data-size="8"><span>7%</span>
+            </span>
+ 
+            <label><span>Service failure</span></label>
+            <span class="cause" data-pos="3%" data-size="3"><span>3%</span>
+            </span>
+ 
+        </div>
+        <div class="info">
+ 
+ 
+ 
+            <h2 class="contacts">How to contact Telegram technical support? </h2>
+ 
+ 
+ 
+            <p class="contacts small">- through the feedback form or personal account - https://telegram.org.</p>
+ 
+ 
+ 
+            <h2 class="contacts">Latest news and current information:</h2>
+ 
+ 
+ 
+            <p class="contacts small">- Telegram - https://t.me/telegram.</p>
+ 
+ 
+ 
+ 
+ 
+            <p>Telegram messenger has the functions of exchanging text, voice and video messages, as well as photos and files of various formats. In addition, Telegram allows you to make audio and video calls, arrange live broadcasts in channels and groups, organize multiplayer groups and channels. The Telegram client application is available on Android, iOS, Windows, macOS and Linux.</p>
+ 
+ 
+ 
+ 
+            <h2 class="descr2">What's with Telegram today - possible causes of failures</h2>
+ 
+ 
+ 
+            <p class="descr2 small">• The servers are undergoing technical work;</p>
+ 
+ 
+ 
+            <p class="descr2 small">• The infrastructure of the service or provider was subjected to a DDoS attack;</p>
+ 
+ 
+ 
+            <p class="descr2 small">• Access is blocked by decision of Roskomnadzor or antivirus program;</p>
+ 
+ 
+ 
+            <p class="descr2 small">• Problems with Internet access on the provider's side;</p>
+ 
+ 
+ 
+            <p class="descr2 small">• Incorrect browser operation (update required, incompatible extension running);</p>
+ 
+ 
+ 
+            <p class="descr2 small">• Application failure may be caused by version obsolescence, enabled blocking bypass tools or lack of Internet connection;</p>
+ 
+ 
+ 
+            <p class="descr2 small">• Access to servers is blocked due to ORM;</p>
+ 
+ 
+ 
+            <p class="descr2 small">• If you don't receive notifications or SMS messages, you may have disabled notifications from the application.</p>
+ 
+ 
+ 
+            <h2 class="descr2">Does the Telegram application not open? </h2>
+ 
+ 
+ 
+            <p class="descr2 small">The mobile application does not open, does not load, slows down, is dull or glitchy? Try to perform a number of actions that may help in solving problems:</p>
+ 
+ 
+ 
+            <p class="descr2 small">• Try to check the availability of the resource using the VPN service;</p>
+ 
+ 
+ 
+            <p class="descr2 small">• Make sure the Internet connection is quality (turn off Wi-Fi, reconnect to the carrier's network by turning the "Airplane Mode" function on and off);</p>
+ 
+ 
+ 
+            <p class="descr2 small">• Update the application to the current version;</p>
+ 
+ 
+ 
+            <p class="descr2 small">• Clear the application cache on Android.</p>
+ 
+ 
+ 
+            <p class="descr2 small">If the application has not improved, please contact technical support.</p>
+ 
+ 
+ 
+            <h2 class="descr2">Why doesn't Telegram media load? </h2>
+ 
+ 
+ 
+            <p class="descr2 small">Can't upload a photo, doesn't show the video and doesn't open the audio? It should be checked that:</p>
+ 
+ 
+ 
+            <p class="descr2 small">• No interruptions in Wi-Fi or mobile Internet;</p>
+ 
+ 
+ 
+            <p class="descr2 small">• There is no restriction on automatic downloading of media files in the application settings;</p>
+ 
+ 
+ 
+            <p class="descr2 small">• A similar problem is observed through the web interface and the application on the PC;</p>
+ 
+ 
+ 
+            <p class="descr2 small">• Wait for the failure to end or contact technical support.</p>
+ 
+ 
+ 
+            <h2 class="descr2">Why don't messages come and send in Telegram? </h2>
+ 
+ 
+ 
+            <p class="descr2 small">It is necessary to check that:</p>
+ 
+ 
+ 
+            <p class="descr2 small">• The problem is not massive;</p>
+ 
+ 
+ 
+            <p class="descr2 small">• the blocking bypass service is disabled, access to the resource may be restricted from certain regions;</p>
+ 
+ 
+ 
+            <p class="descr2 small">• Wait for the failure to end or contact technical support.</p>
+ 
+ 
+ 
+            <h2 class="descr2">Web.telegram.org is not loading? </h2>
+ 
+ 
+ 
+            <p class="descr2 small">• Check the current status of your Internet service provider on our resource. To do this, enter its name in the search bar on the site and click the "Check" button;</p>
+ 
+ 
+ 
+            <p class="descr2 small">• The browser displays error 404 (Not Found) - check the correctness of the entered URL;</p>
+ 
+ 
+ 
+            <p class="descr2 small">• Error 403 (Forbidden) - indicates the lack of access rights to this page;</p>
+ 
+ 
+ 
+            <p class="descr2 small">• Displays the status code 502 (Bad Gateway), 504 (Gateway Timeout) - the problem is on the server side. Most often caused by server overload or DDoS attack. Wait for the troubleshooting of the technical support service.</p>
+ 
+ 
+ 
+            <h2 class="descr2">Keep track of the current status of Telegram services on our website! </h2>
+ 
+ 
+ 
+            <h3>You may be interested in knowing the current status of the following services</h3>
+            <div class="extra">
+ 
+                <a class="card" data-service="Whatsapp" href="/whatsapp">
+                    <img src="/icons/whatsapp.svg" alt="The status of Whatsapp services*" /><span>Whatsapp*</span>
+                </a>
+ 
+                <a class="card" data-service="Viber" href="/viber">
+                    <img src="/icons/viber.svg" alt="Viber services statas" /><span>Viber</span>
+                </a>
+ 
+                <a class="card" data-service="VK Dating" href="/vk-znakomstva">
+                    <img src="/icons/vkdating.svg" alt="VK Dating Services " /><span>VK Dating</span>
+                </a>
+ 
+                <a class="card" data-service="VK Messenger" href="/vk-messendzher">
+                    <img src="/icons/vkmessanger.svg" alt="VK Messenger service status" /><span>VK Messenger</span>
+                </a>
+ 
+            </div>
+ 
+            <p class="name" hidden><span>Telegram</span></p>
+        </div>
+ 
+        <div class="monitored">
+            <div>
+                <h2>List of Telegram service pages in monitoring</h2>
+                <div></div>
+                <div>
+ 
+                    <a href="https://my.telegram.org" rel="nofollow" target="_blank">my.telegram.org</a>
+ 
+                    <a href="https://core.telegram.org" rel="nofollow" target="_blank">core.telegram.org</a>
+ 
+                    <a href="https://instantview.telegram.org" rel="nofollow" target="_blank">instantview.telegram.org</a>
+ 
+                    <a href="https://translations.telegram.org" rel="nofollow" target="_blank">translations.telegram.org</a>
+ 
+                    <a href="https://macos.telegram.org" rel="nofollow" target="_blank">macos.telegram.org</a>
+ 
+                    <a href="https://web.telegram.org" rel="nofollow" target="_blank">web.telegram.org</a>
+ 
+                    <a href="https://telegram.org" rel="nofollow" target="_blank">telegram.org</a>
+ 
+                    <a href="https://desktop.telegram.org" rel="nofollow" target="_blank">desktop.telegram.org</a>
+ 
+                </div>
+                <button>OK</button>
+            </div>
+        </div>
+ 
+        <div id="tooltip"><span>Available by subscription</span></div>
+    </section>
+    <div id="goup" title="To the top"></div>
+    <template id="sitereport">
+        <div class="modal">
+            <div class="sitereport">
+                <header><button class="close">×</button></header>
+                <h2>Do you have Telegram working? <br />Describe the problem! </h2>
+                <div></div>
+                <input type="text" name="author" placeholder="Your name (optional)" maxlength="25">
+                <textarea name="report" maxlength="160" placeholder="Your comment (maximum 160 characters)"></textarea>
+ 
+                <label class="attach"><input type="file" accept=".png, .jpg">Attach a screenshot (JPG/PNG)</label>
+ 
+                <div>
+ 
+                    <button class="pre">Do not log in to your personal account</button>
+ 
+                    <button class="pre">Media is not loaded</button>
+ 
+                    <button class="pre">The site is not loading</button>
+ 
+                    <button class="pre">The application does not open</button>
+ 
+                    <button class="pre">Messages do not come</button>
+ 
+                </div>
+                <button class="report">OK</button>
+            </div>
+        </div>
+    </template>
+    <template id="reportthank">
+        <div class="modal">
+            <div class="sitereport">
+                <header><button class="close">×</button></header>
+                <h2>Telegram failure message received</h2>
+                <div></div>
+                <p>The comment will be published within<br>5 minutes</p>
+                <p>Service employees will learn about your request</p>
+                <div class="social">
+We are in Telegram - <a href="https://t.me/ru_downdetector_su" target="_blank" rel="noopener noreferrer"><img src="/img/telegram_mono.svg" alt="Telegram"></a>
+                    <!-- <a href="https://vk.com/downdetector_su" target="_blank" rel="noopener noreferrer"><img
+src="/img/vk_mono.svg" alt="VK"></a>
+<a href="https://t.me/ru_downdetector_su" target="_blank" rel="noopener noreferrer"><img
+src="/img/telegram_mono.svg" alt="Telegram"></a>
+<a href="https://tenchat.ru/downdetector_su" target="_blank" rel="noopener noreferrer"><img
+src="/img/tenchat_mono.svg" alt="TenChat"></a>
+<a href="https://dzen.ru/downdetector_su" target="_blank" rel="noopener noreferrer"><img
+src="/img/dzen_mono.svg" alt="Zen"></a> -->
+                </div>
+                <button class="report">OK</button>
+            </div>
+        </div>
+    </template>
+ 
+ 
+    <footer>
+        <div class="footer">© 2025, by admin@downdetector.info</div>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    </footer>
+    <template id="loginscreen">
+        <div id="login" class="modal">
+            <div>
+                <span>Entran</span>
+                <span>enter your e-mail and password to log in</span>
+                <input type="email" name="email" placeholder="E-Mail" />
+                <input type="password" name="password" placeholder="Password" />
+                <label class="checkbox">
+                    <input type="checkbox" />
+                    <div></div>
+Keep Me In Mind
+                </label>
+                <button>Log in</button>
+            </div>
+        </div>
+    </template>
+    <template id="locationchange">
+        <div class="changelocation">
+            <div>
+                <span data-variant="ru" hidden>We have a separate website for Russia! </span>
+                <span data-variant="kz" hidden>We have a separate website for Kazakhstan! </span>
+                <span data-variant="by" hidden>We have a separate website for Belarus! </span>
+                <span data-variant="uz" hidden>We have a separate website for Uzbekistan! </span>
+                <span>Do you want to switch to it? </span>
+                <button>Go</button><button>Stay</button>
+            </div>
+        </div>
+    </template>
+    <!--/noindex-->
+ 
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js? id=G-PGKVELRY2V"></script>
+    <script>
+window.dataLayer = window.dataLayer || [];
+ 
+        function gtag() {
+dataLayer.push(arguments);
+}
+gtag("js", new Date());
+ 
+gtag("config", "G-PGKVELRY2V");
+    </script>
+ 
+    <!-- Yandex.Metrica counter -->
+    <script type="text/javascript">
+(function(m, e, t, r, i, k, a) {
+m[i] =
+m[i] ||
+                function() {
+(m[i].a = m[i].a || []).push(arguments);
+};
+m[i].l = 1 * new Date();
+            for (var j = 0; j < document.scripts.length; j++) {
+                if (document.scripts[j].src === r) {
+                    return;
+}
+}
+(k = e.createElement(t)),
+(a = e.getElementsByTagName(t)[0]),
+(k.async = 1),
+(k.src = r),
+a.parentNode.insertBefore(k,a);
+})(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+ 
+ym(93531947, "init", {
+clickmap: true,
+trackLinks: true,
+accurateTrackBounce: true,
+webvisor: true,
+});
+    </script>
+</body>
+ 
+</html>
